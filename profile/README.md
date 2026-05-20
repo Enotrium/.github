@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://www.enotrium.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Tektur&size=74&color=E6EDF3&center=true&vCenter=true&width=500&height=110&lines=Enotrium&duration=1&pause=0&repeat=false" alt="Enotrium"/>
+    <img src="https://readme-typing-svg.demolab.com?font=Tektur&size=68&color=E6EDF3&center=true&vCenter=true&width=500&height=110&lines=Enotrium&duration=1&pause=0&repeat=false" alt="Enotrium"/>
   </a>
 </p>
 <p align="center">

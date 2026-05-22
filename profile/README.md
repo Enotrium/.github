@@ -1,11 +1,17 @@
 <p align="center">
   <a href="https://www.enotrium.org">
-    <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=68&color=0A0A0A&center=true&vLeft=true&width=500&height=100&lines=Enotrium&duration=1&pause=0&repeat=false" alt="Enotrium"/>
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Iceland&size=68&color=FFFFFF&center=true&vLeft=true&width=500&height=100&lines=Enotrium&duration=1&pause=0&repeat=false">
+      <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=68&color=0A0A0A&center=true&vLeft=true&width=500&height=100&lines=Enotrium&duration=1&pause=0&repeat=false" alt="Enotrium"/>
+    </picture>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&color=0A0A0A&center=true&vCenter=true&width=600&height=50&lines=Advancing+Civilization+through+World+Models.;A+New+Mesopotamia&repeat=false&pause=1000" alt="Mission Statement"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Iceland&size=20&color=FFFFFF&center=true&vCenter=true&width=600&height=50&lines=Advancing+Civilization+through+World+Models.;A+New+Mesopotamia&repeat=false&pause=1000">
+    <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&color=0A0A0A&center=true&vCenter=true&width=600&height=50&lines=Advancing+Civilization+through+World+Models.;A+New+Mesopotamia&repeat=false&pause=1000" alt="Mission Statement"/>
+  </picture>
 </p>
 
 ---
@@ -16,13 +22,12 @@ This work and all associated repositories under the **Enotrium** organization ar
 
 ---
 
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/enotrium/.github/main/profile/Enotrium-4.svg" alt="Enotrium" height="55"/>
+  <a href="https://www.enotrium.org">Enotrium.org</a>
 </p>
 
 <p align="center">
-  <a href="https://www.enotrium.org">Enotrium.org</a>
+  <img src="https://raw.githubusercontent.com/enotrium/.github/main/profile/Enotrium-4.svg" alt="Enotrium" height="55"/>
 </p>
 
 <p align="center">

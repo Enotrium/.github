@@ -16,12 +16,13 @@ This work and all associated repositories under the **Enotrium** organization ar
 
 ---
 
-<p align="center">
-  <a href="https://www.enotrium.org">Enotrium.org</a>
-</p>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/enotrium/.github/main/profile/Enotrium-4.svg" alt="Enotrium" height="55"/>
+</p>
+
+<p align="center">
+  <a href="https://www.enotrium.org">Enotrium.org</a>
 </p>
 
 <p align="center">

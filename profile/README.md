@@ -21,9 +21,3 @@ This work and all associated repositories under the **Enotrium** organization ar
 <p align="center">
   <sub>© 2026 Enotrium Syndicate. All rights reserved.</sub>
 </p>
-
-
-
-
-
-* [Enotrium Syndicate](https://www.enotriumsyndicate.org)

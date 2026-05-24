@@ -15,8 +15,6 @@ This work and all associated repositories under the **Enotrium** organization ar
 * [Enotrium](https://www.enotrium.org)
 * [EnotriumAI](https://www.enotriumai.org)
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/enotrium/.github/main/profile/Enotrium-4.svg" alt="Enotrium" height="55"/>
 </p>
 <p align="center">
   <sub>© 2026 Enotrium Syndicate. All rights reserved.</sub>

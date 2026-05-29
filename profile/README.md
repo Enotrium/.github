@@ -1,7 +1,6 @@
 <p align="center">
   <a href="https://www.enotrium.org">
     <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=68&color=E6EDF3&center=true&vLeft=true&width=500&height=100&lines=Enotrium&duration=1&pause=0&repeat=false" alt="Enotrium"/>
-  </a>
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&color=E6EDF3&center=true&vCenter=true&width=600&height=50&lines=Advancing+Civilization+through+World+AI+Models.;A+New+Mesopotamia&repeat=false&pause=1000" alt="Mission Statement"/>
 </p>

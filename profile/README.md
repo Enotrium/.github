@@ -12,6 +12,7 @@ This work and all associated repositories under the **Enotrium** organization ar
 ---
 * [Enotrium](https://www.enotrium.org)
 * [EnotriumAI](https://www.enotriumai.org)
+* [contact@enotrium.net]
 ---
 </p>
 

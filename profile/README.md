@@ -10,10 +10,6 @@
 This work and all associated repositories under the **Enotrium** organization are protected under international copyright law.
 
 ---
-* [Enotrium](https://www.enotrium.org)
-* [EnotriumAI](https://www.enotriumai.org)
-* contact@enotrium.net
----
 </p>
 
 <p align="center">

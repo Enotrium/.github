@@ -4,7 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Iceland&size=20&color=E6EDF3&center=true&vCenter=true&width=600&height=50&lines=Advancing+Civilization+through+World+AI+Models.;A+New+Mesopotamia&repeat=false&pause=1000" alt="Mission Statement"/>
 </p>
-<sup>[Enotrium X](https://x.com/EnotriumAI)</sup>
+    
+
 ---
 #### Copyright © 2026 Enotrium
 This work and all associated repositories under the **Enotrium** organization are protected under international copyright law. 

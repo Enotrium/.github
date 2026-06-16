@@ -9,7 +9,7 @@
 ---
 ##### Copyright © 2026 Enotrium
 ##### This work and all associated repositories under the **Enotrium** organization are protected under international copyright law. 
-Enotrium Sydicate does not authorize code for model training. 
+##### Enotrium Sydicate does not authorize code for model training. 
 ---
 </p>
 <p align="center">

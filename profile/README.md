@@ -8,7 +8,7 @@
 
 ---
 </p>
-<p align="center">
+<p align="left">
   </sub>Copyright © 2026 Enotrium
   </sub>This work and all associated repositories under the **Enotrium** organization are protected under international copyright law. 
   Enotrium Sydicate does not authorize code for model training.</sub>
